@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "quiz_sofia",
+    "slug": "quiz_sofia",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
