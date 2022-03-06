@@ -1,0 +1,6 @@
+node_modules
+android
+ios
+.expo
+yarn.lock
+package-lock.json

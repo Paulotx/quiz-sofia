@@ -1,10 +1,19 @@
 {
+  "name": "quizsofia",
+  "displayName": "quizsofia",
   "expo": {
     "name": "quiz_sofia",
     "slug": "quiz_sofia",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "splash": {
+      "backgroundColor": "#45377E"
+    },
+    "android": {
+      "package": "com.quizsofia",
+      "versionCode": 2
+    }
   }
 }
